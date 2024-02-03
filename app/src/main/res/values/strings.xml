@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Loginactivity</string>
+    <string name="kakao_app_key">5f4742f917e12b3592c2a51e8765ff3d</string>
+    <string name="some_id">
+    \u00ec\u0084\u00b8\u00ed\u0083\u0081\u00ec\u00bd\u0094\u00ec\u00b9\u0098
+    </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_new">New Here? Register Now.</string>
+
+</resources>
